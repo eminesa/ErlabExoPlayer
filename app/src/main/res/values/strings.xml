@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Erlab ExoPlayer</string>
+    <string name="previous_video">Previous video</string>
+    <string name="play_video">Play video</string>
+    <string name="pause_video">Pause video</string>
+    <string name="next_video">Next video</string>
+    <string name="ten_second_next">Ten second next</string>
+    <string name="ten_second_previous">Ten second previous</string>
+    <string name="full_screen">Full screen</string>
+    <string name="cut_point">/</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+</resources>
